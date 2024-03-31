@@ -43,7 +43,7 @@ header {
   font-weight: 600;
 }
 .logo span {
-  color:aqua;
+  color:rgb(147, 211, 211);
 }
 .navbar {
   display: flex;
